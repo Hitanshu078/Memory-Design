@@ -1,0 +1,8 @@
+a. Observation: With a small block size (4 bytes), cache lines are efficiently used, and spatial locality is well-exploited.
+b. - Larger caches tend to reduce miss rates as more data fits in the cache.
+        - High-locality traces show better improvements, while random-access traces show smaller gains.
+
+c. - Small block sizes may increase miss rates, while larger block sizes reduce them due to spatial locality.
+        - Too large a block size causes cache pollution, increasing miss rates for traces with low spatial locality.
+
+d. 
