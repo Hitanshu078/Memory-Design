@@ -48,7 +48,7 @@ The experiments are conducted using input memory trace files from the given [sou
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/CacheMemoryAssignment.git
+   git clone https://github.com/Hitanshu078/Memory-Design.git
    cd CacheMemoryAssignment
    ```
 
